@@ -47,7 +47,7 @@ A repo is considered "done" when:
 
 ### 1. Local Setup
 > [!TIP]
-> **Environment Configuration**: For detailed instructions on setting up your environment, see the [Student Environment Setup Guide](https://github.com/aunexus-lab/atlantis-nexus/blob/main/definitions/student_instructions.md).
+> **Environment Configuration**: For detailed instructions on setting up your environment, see the [Student Environment Setup Guide](/docs/student_instructions.md).
 
 Ensure you have Python installed.
 
