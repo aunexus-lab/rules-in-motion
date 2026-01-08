@@ -46,6 +46,9 @@ A repo is considered "done" when:
 ## How to Run
 
 ### 1. Local Setup
+> [!TIP]
+> **Environment Configuration**: For detailed instructions on setting up your environment, see the [Student Environment Setup Guide](https://github.com/aunexus-lab/atlantis-nexus/blob/main/definitions/student_instructions.md).
+
 Ensure you have Python installed.
 
 1.  **Clone the repository**
